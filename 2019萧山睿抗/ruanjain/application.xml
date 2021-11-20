@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/2.6">
+  <id>...1574403300</id>
+  <versionNumber>1.0</versionNumber>
+  <filename>Scratch</filename>
+  <name>Scratch</name>
+  <initialWindow>
+    <title>Scratch - Our Robot ER1</title>
+    <content>Scratch.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>true</maximizable>
+    <resizable>true</resizable>
+    <width>1024</width>
+    <height>640</height>
+    <minSize>640 480</minSize>
+  </initialWindow>
+	<supportedProfiles>extendedDesktop</supportedProfiles>
+</application>
